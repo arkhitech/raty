@@ -1,14 +1,4 @@
 {
-  "author": "Washington Botelho",
-  "bugs": {
-    "url": "https://github.com/wbotelhos/raty/issues"
-  },
-  "contributors": [
-    "Washington Botelho <wbotelhos@gmail.com> (http://wbotelhos.com)"
-  ],
-  "demos": [
-    "demo/index.html"
-  ],
   "dependencies": {
     "jquery": "^3.2.1"
   },
@@ -28,31 +18,8 @@
     "lib": "lib",
     "test": "spec"
   },
-  "engines": {
-    "node": ">=8",
-    "npm": "^5"
-  },
-  "homepage": "https://github.com/wbotelhos/raty",
-  "keywords": [
-    "classificacao",
-    "classificar",
-    "javascript",
-    "jquery",
-    "library",
-    "plugin",
-    "rating",
-    "raty",
-    "star",
-    "staring",
-    "votar",
-    "voto"
-  ],
-  "license": "MIT",
   "main": "lib/jquery.raty.js",
-  "maintainers": [
-    "Washington Botelho <wbotelhos@gmail.com> (http://wbotelhos.com)"
-  ],
-  "name": "raty-js",
+  "name": "jquery-raty-js",
   "repository": {
     "type": "git",
     "url": "https://github.com/wbotelhos/raty"
